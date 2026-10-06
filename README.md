@@ -11,7 +11,7 @@
 ![Python](https://img.shields.io/badge/Python-3.11%2B-0095b1?style=flat)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-0a5645?style=flat)
 ![Language](https://img.shields.io/badge/Lang-FR%20%2F%20EN-0a5645?style=flat)
-[![YouTube](https://img.shields.io/badge/YouTube-@Palks__Studio-FF0000?style=flat&logo=youtube&logoColor=white)](TON_NOUVEAU_LIEN_YOUTUBE)
+[![YouTube](https://img.shields.io/badge/YouTube-@Palks__Studio-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Bw-s8SEV7rw)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@Palks__Studio-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palks-studio/)
 [![Tool](https://img.shields.io/badge/Tool-Project%20Inventory-0095b1?style=flat)](https://palks-studio.com/en/project-inventory/)
 
